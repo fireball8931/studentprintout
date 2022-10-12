@@ -1,10 +1,21 @@
 .App {
-  /* text-align: center; */
+  padding-left:5%;
+  padding-right:5%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.code {
+  font-family: var(--#{$prefix}font-monospace);;
+}
+dt::after {
+  content: ": ";
+}
+
+dt {
+  font-weight: bold;
+}
+
+#creds {
+  display: inline-flexbox;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -38,10 +49,7 @@
 }
 
 @media print {
-  * {
-      margin: 0 !important;
-      padding: 0 !important;
-  }
+
   #controls,
   .footer,
   .footerarea {
