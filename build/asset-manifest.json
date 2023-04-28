@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/studentprintout/static/css/main.e6c13ad2.css",
+    "main.js": "/studentprintout/static/js/main.16e59943.js",
+    "index.html": "/studentprintout/index.html",
+    "main.e6c13ad2.css.map": "/studentprintout/static/css/main.e6c13ad2.css.map",
+    "main.16e59943.js.map": "/studentprintout/static/js/main.16e59943.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.16e59943.js"
+  ]
+}
