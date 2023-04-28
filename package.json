@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@pdfme/generator": "^1.0.14",
-    "@pdfme/ui": "^1.0.14",
+    "@pdfme/generator": ">=1.0.14",
+    "@pdfme/ui": ">=1.0.14",
     "@testing-library/jest-dom": "latest",
     "@testing-library/react": "latest",
     "@testing-library/user-event": "latest",
-    "bootstrap": "^5.2.2",
+    "bootstrap": ">=5.2.2",
     "jspdf": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-scripts": "^5.0.1",
+    "react-scripts": ">=5.0.1",
     "web-vitals": "latest"
   },
   "homepage": "https://fireball8931.github.io/studentprintout",
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": ">=4.0.0"
   }
 }
