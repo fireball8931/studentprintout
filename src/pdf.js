@@ -181,7 +181,7 @@ function App() {
   {
     "FirstName": FirstName,
     "personalemail": personalemail,
-    "password": studentpassword,
+    "password": `${studentpassword}!`,
     "campusemail": UPN,
     "password copy": studentpassword,
     "first.last": FirstLast,
